@@ -1,0 +1,5 @@
+# Ignore all files in folder_to_ignore
+_temp/*
+
+# Except for file_to_keep.txt
+!_temp/NST.pdf
